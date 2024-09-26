@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+## Purpose
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repo was created for the purpose of quickly initializing a blank React app (mainly for interview purposes) with a couple of useful libraries that just allow speedier development.
+
+### Libraries added to `typescript` template from `create-react-app`
+
+- Lodash
+  - Some potentially useful utilities, might as well add it to save some time
+- Luxon
+  - Much easier date formatting, math, and manipulation
+- usehooks-ts
+  - Useful TS hooks for things like intervals, debounced values, clipboard
 
 ## Available Scripts
 
@@ -44,3 +53,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+### This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
